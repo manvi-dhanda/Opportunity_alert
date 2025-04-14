@@ -95,7 +95,7 @@ if ($logged_in) {
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div class="glass p-6 rounded-xl neon-hover text-center">
                 <img src="https://via.placeholder.com/150" alt="Team Member" class="w-32 h-32 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-bold">Jeenisha</h3>
+                <h3 class="text-xl font-bold">Janisha</h3>
                 <p class="text-gray-300">1</p>
             </div>
             <div class="glass p-6 rounded-xl neon-hover text-center">
